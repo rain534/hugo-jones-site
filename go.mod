@@ -1,4 +1,4 @@
-module github.com/bep/gallerydeluxe_starter
+module github.com/rain534/hugo-jones-site
 
 go 1.19
 
