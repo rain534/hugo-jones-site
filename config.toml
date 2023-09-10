@@ -1,5 +1,5 @@
 baseURL      = "https://rain534.github.io/"
-title        = "Gallery Deluxe"
+title        = "Indiana Jones"
 disableKinds = ["section", "taxonomy", "term"]
 
 [params]
@@ -29,7 +29,8 @@ disableKinds = ["section", "taxonomy", "term"]
     [imaging.exif]
         disableDate    = false
         disableLatLong = true
-        includeFields  = 'Artist|LensModel|FNumber|ExposureTime'
+        includeFields  = 'Date$'
+        #includeFields  = 'Artist|LensModel|FNumber|ExposureTime'
 
 [server]
     [[server.headers]]
