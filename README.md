@@ -17,7 +17,7 @@ Run `hugo mod get -u` to update to a newer version of Gallery Deluxe if one exis
 
 [^1]: I wish GitHub's template project feature had support for variable replacements.
 
-Deploy IndyJones site:
+## Deploy IndyJones site
 1. install go and hugo (bin from hugo is good in PATH)
 1. add new photo
 1. hugo server (to check in dev server)
