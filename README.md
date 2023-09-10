@@ -16,3 +16,10 @@ This starter projects can be previewd at [gallerydeluxe.netlify.app](https://gal
 Run `hugo mod get -u` to update to a newer version of Gallery Deluxe if one exists.
 
 [^1]: I wish GitHub's template project feature had support for variable replacements.
+
+Deploy IndyJones site:
+1. install go and hugo (bin from hugo is good in PATH)
+1. add new photo
+1. hugo server (to check in dev server)
+1. hugo (to build)
+1. update repo with static site from public dir and push it to github
